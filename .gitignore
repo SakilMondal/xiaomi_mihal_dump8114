@@ -1,0 +1,10 @@
+product/priv-app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+vendor/lib64/mt6895/libaibc_tuning.so
+system/system/system_ext/priv-app/Settings/Settings.apk
+system/system/system_ext/apex/com.android.vndk.v30.apex
+system/system/data-app/MIMediaEditorGlobal/MIMediaEditorGlobal.apk
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
